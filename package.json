@@ -1,0 +1,19 @@
+{
+  "name": "Testcafe-automation",
+  "version": "1.0.0",
+  "description": "Playground of Test Cafe test automation tool",
+  "author": "Preeti Ajgaonkar",
+  "private": true,
+  "scripts": {
+    "test": "node runner.js"
+  },
+  "dependencies": {
+    "faker": "4.1.0",
+    "glob": "7.1.2",
+    "testcafe-reporter-html-testrail": "2.0.0"
+  },
+  "devDependencies": {
+    "ffmpeg": "0.0.4",
+    "testcafe-angular-selectors": "^0.3.2"
+  }
+}
